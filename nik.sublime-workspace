@@ -1,0 +1,999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_mainPress"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"tex",
+				"textRow"
+			],
+			[
+				"key",
+				"keyboardDidHideListener"
+			],
+			[
+				"Arrow",
+				"ai-arrow-left\t<span>"
+			],
+			[
+				"rc",
+				"rc\tReact.createElement()"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"keboardDis",
+				"keyboardDidShowListener"
+			],
+			[
+				"cs",
+				"cs\tReact: var cx = React.addons.classSet;"
+			],
+			[
+				"gis",
+				"gis\tReact: getInitialState: fn() { return {...} } "
+			],
+			[
+				"cd",
+				"cdm\tReact: componentDidMount: fn() { ... }"
+			],
+			[
+				"rpn",
+				"rpn\tReact.PropTypes.number"
+			],
+			[
+				"react",
+				"react-native"
+			],
+			[
+				"rnp",
+				"rnp\tNew Prop"
+			],
+			[
+				"page",
+				"Page"
+			],
+			[
+				"P",
+				"Page"
+			],
+			[
+				"he",
+				"height\t.height()"
+			],
+			[
+				"rac",
+				"react-native"
+			],
+			[
+				"Ma",
+				"Mainpage"
+			],
+			[
+				"M",
+				"Mainpage"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"S",
+				"Splash"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"L",
+				"Loader"
+			],
+			[
+				"Lo",
+				"DrawerLayoutAndroid"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"im",
+				"image:responsive\tresponsive"
+			],
+			[
+				"re",
+				"rec\tReact createClass template"
+			],
+			[
+				"input",
+				"inputc\tinput - color"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"sc",
+				"sc_jud"
+			],
+			[
+				"title",
+				"title"
+			],
+			[
+				"tbl",
+				"tbl_abal"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"repla",
+				"str_replace"
+			],
+			[
+				"onk",
+				"onkeypress\tAttr"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sql",
+				"sql_ebc"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"bs3-but",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"but",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.android.js",
+			"settings":
+			{
+				"buffer_size": 3210,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/splash.js",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/component/mainpage.js",
+			"settings":
+			{
+				"buffer_size": 5544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/component/kategori.js",
+			"settings":
+			{
+				"buffer_size": 11179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/component/pasang.js",
+			"settings":
+			{
+				"buffer_size": 9942,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Snippet: reactClass"
+			],
+			[
+				"NetIn",
+				"Snippet: React getInitialState"
+			],
+			[
+				"component",
+				"Snippet: Component Did Mount"
+			],
+			[
+				"impo",
+				"Snippet: import react"
+			],
+			[
+				"impor",
+				"Snippet: import react"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"react-nati",
+				"Snippet: Create react-native Class"
+			],
+			[
+				"List",
+				"Snippet: ListView"
+			],
+			[
+				"image",
+				"Snippet: Image"
+			],
+			[
+				"lis",
+				"Snippet: ListView"
+			],
+			[
+				"android",
+				"Android: Generate Getters and Settegs"
+			],
+			[
+				"import react",
+				"Snippet: import react"
+			],
+			[
+				"bs3-con",
+				"Snippet: bs3-container"
+			],
+			[
+				"container",
+				"Snippet: bs3-container"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"es6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"form",
+				"Snippet: form_controls"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3-col-4",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"input-te",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-col",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"",
+				"Goto Bootstrap: Components"
+			],
+			[
+				"gist",
+				"Goto Bootstrap: Javascript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-alert"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"c:",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/AppProjects/numpangIklan",
+		"/C/AppProjects/numpangIklan/src"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/ptloco/loc.php",
+		"/C/AppProjects/numpangIklan/android/app/src/main/java/com/numpangiklan/MainApplication.java",
+		"/C/AppProjects/numpangIklan/package.json",
+		"/C/AppProjects/numpangIklan/android/app/src/main/java/com/numpangiklan/MainActivity.java",
+		"/C/AppProjects/numpangIklan/android/app/build.gradle",
+		"/C/AppProjects/numpangIklan/android/settings.gradle",
+		"/C/AppProjects/numpangIklan/src/component/mainpage.js",
+		"/C/AppProjects/numpangIklan/src/splash.js",
+		"/C/AppProjects/numpangIklan/src/component/row.js",
+		"/C/AppProjects/numpangIklan/src/component/detail.js",
+		"/C/AppProjects/numpangIklan/src/component/kategori.js",
+		"/C/AppProjects/numpangIklan/src/component/rowcat.js",
+		"/C/AppProjects/numpangIklan/android/app/src/main/java/com/sbugert/rnadmob/RNAdMobBannerViewManager.java",
+		"/C/AppProjects/numpangIklan/android/gradle.properties",
+		"/C/AppProjects/numpangIklan/android/app/src/main/java/com/sbugert/RNAdMobBannerViewManager.java",
+		"/C/AppProjects/numpangIklan/src/ads/RNAdMobInterstitial.js",
+		"/C/AppProjects/numpangIklan/src/ads/RNAdMobRewarded.js",
+		"/C/AppProjects/numpangIklan/src/index.js",
+		"/C/AppProjects/numpangIklan/splash.js",
+		"/C/AppProjects/numpangIklan/src/component/pasang.js",
+		"/C/AppProjects/numpangIklan/android/build.gradle",
+		"/C/AppProjects/numpangIklan/src/component/RNAdMobInterstitial.js",
+		"/C/AppProjects/numpangIklan/src/component/api.js",
+		"/C/AppProjects/numpangIklan/src/component/apicat.js",
+		"/C/AppProjects/numpangIklan/src/component/FontAwesomeIcons.js",
+		"/D/xampp/phpMyAdmin/libraries/DatabaseInterface.class.php",
+		"/D/xampp/phpMyAdmin/libraries/mysql_charsets.lib.php",
+		"/C/xampp/phpmyadmin/libraries/database_interface.lib.php",
+		"/C/xampp/phpmyadmin/libraries/mysql_charsets.lib.php",
+		"/D/xampp/htdocs/numpang/api/PassHash.php",
+		"/D/xampp/htdocs/numpang/api/index.php",
+		"/D/xampp/htdocs/numpang/index.php",
+		"/D/xampp/htdocs/numpang/api/Config.php",
+		"/D/xampp/htdocs/numpang/api/config.php",
+		"/D/xampp/htdocs/numpang/api/task_manager.sql",
+		"/C/AppProjects/numpangIklan/index.ios.js",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/ESLint-Formatter/ESLint-Formatter.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/C/AppProjects/numpangIklan/.jshintrc",
+		"/C/AppProjects/numpangIklan/.babelrc",
+		"/C/AppProjects/numpangIklan/index.android.js",
+		"/C/AppProjects/numpangIklan/node_modules/babel-plugin-react-transform/.eslintrc",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/D/xampp/htdocs/numpang/json/.htaccess",
+		"/D/xampp/htdocs/numpang/.htaccess",
+		"/C/AppProjects/numpangIklan/src/component/zheader.js",
+		"/C/AppProjects/numpangIklan/src/component/footer.js",
+		"/C/AppProjects/numpangIklan/src/component/page.js",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/Terminal in Packages/terminalinpackages.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/TerminalinPackages/Default.sublime-keymap",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/AppProjects/numpangIklan/src/component/header.js",
+		"/C/AppProjects/numpangIklan/mainpage.js",
+		"/C/AppProjects/numpangIklan/android/app/src/main/AndroidManifest.xml",
+		"/C/AppProjects/numpangIklan/mainPage.js",
+		"/C/AppProjects/numpangIklan/node_modules/react-native/local-cli/link/__fixtures__/android/0.20/MainActivity.java",
+		"/C/AppProjects/numpangIklan/node_modules/react-native/Libraries/Components/TextInput/TextInput.js",
+		"/C/AppProjects/AwesomeProject/index.android.js",
+		"/C/AppProjects/AwesomeProject/android/app/src/main/res/values/styles.xml",
+		"/C/AppProjects/AwesomeProject/index.ios.js",
+		"/C/AppProjects/react-app/public/index.html",
+		"/C/AppProjects/react-app/src/App.js",
+		"/C/AppProjects/react-app/src/index.js",
+		"/C/AppProjects/react-app/src/index.css",
+		"/C/AppProjects/react-app/react-app",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/supernova/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/laravel-master/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel-master/public/index.php",
+		"/C/xampp/htdocs/laravel-master/composer.json",
+		"/C/xampp/htdocs/dominan/form.php",
+		"/C/xampp/htdocs/dominan/master.php",
+		"/C/xampp/htdocs/dominan/dashboard.php",
+		"/C/xampp/htdocs/dominan/logout.php",
+		"/C/xampp/htdocs/sitbooks/index.php",
+		"/C/xampp/htdocs/sitbooks/include/function_iud.php",
+		"/C/xampp/htdocs/agc/sitemap.php",
+		"/C/xampp/htdocs/agc/css/custom.css",
+		"/C/xampp/htdocs/agc/.htaccess",
+		"/C/xampp/htdocs/agc/index.php",
+		"/C/xampp/htdocs/agc/ajax/load_name.php",
+		"/C/xampp/htdocs/agc/include/config.php",
+		"/C/xampp/htdocs/sitbooks/.htaccess",
+		"/C/xampp/htdocs/sitbooks/css/custom.css",
+		"/C/xampp/htdocs/agc/temp/index.php",
+		"/C/xampp/htdocs/numpangiklan/feed.php",
+		"/C/xampp/htdocs/agc/temp/.htaccess",
+		"/C/xampp/htdocs/agc/temp/bigdump.php",
+		"/C/xampp/htdocs/indonew/.htaccess",
+		"/C/xampp/htdocs/bontang/index.php",
+		"/C/xampp/htdocs/indofotografi/.htaccess",
+		"/C/xampp/htdocs/goldensun/en/index.php",
+		"/C/xampp/htdocs/pse/index.php",
+		"/C/xampp/htdocs/numpangiklan/index.php",
+		"/C/xampp/htdocs/indofotografi/index.php",
+		"/C/xampp/htdocs/goldensun/index.php",
+		"/C/xampp/htdocs/ebusiness/index.php",
+		"/C/xampp/htdocs/bkiperak/index.php",
+		"/C/xampp/htdocs/bontang/rtm.php",
+		"/C/xampp/htdocs/bontang/src.php",
+		"/C/xampp/htdocs/bontang/usr.php",
+		"/C/xampp/htdocs/bontang/frm.php",
+		"/C/xampp/htdocs/bontang/tab00.php",
+		"/C/xampp/htdocs/bontang/tab01.php",
+		"/C/xampp/htdocs/agc/css/bootstrap-theme.min.css",
+		"/C/xampp/htdocs/agc/css/bootstrap-theme.css.map",
+		"/C/xampp/htdocs/agc/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/agc/css/bootstrap.css",
+		"/C/xampp/htdocs/agc/js/ie-emulation-modes-warning.js",
+		"/C/xampp/htdocs/agc/temp/import.php",
+		"/C/xampp/htdocs/agc/load_name.php",
+		"/C/xampp/htdocs/agc/include/library.php",
+		"/C/xampp/htdocs/agc/temp/suggestion.php",
+		"/C/xampp/htdocs/agc/temp/myajax.php",
+		"/C/xampp/htdocs/agc/temp/jquery-latest.js",
+		"/C/xampp/htdocs/agc/temp/excel_reader2.php",
+		"/C/xampp/htdocs/agc/js/validation.js",
+		"/C/xampp/htdocs/agc/js/respond.min.js",
+		"/C/xampp/htdocs/agc/js/numeric.js",
+		"/C/xampp/htdocs/agc/js/nicEdit.js",
+		"/C/xampp/htdocs/agc/js/jquery.min.js",
+		"/C/xampp/htdocs/agc/js/jquery.isotope.min.js",
+		"/C/xampp/htdocs/agc/js/jquery.dataTables.js",
+		"/C/xampp/htdocs/agc/js/jquery-ui.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rna",
+			"dex",
+			"user",
+			"Close",
+			"list",
+			"utf8mb4",
+			"AwesomeProject",
+			"intel",
+			"books",
+			"unik",
+			"img",
+			"=\"-",
+			"iimg",
+			"sdfgsdfg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"numpangIklan"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.android.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/splash.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/component/mainpage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/component/kategori.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/component/pasang.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nik.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pasa",
+				"src\\component\\pasang.js"
+			],
+			[
+				"kateg",
+				"src\\component\\kategori.js"
+			],
+			[
+				"mainpa",
+				"src\\component\\mainpage.js"
+			],
+			[
+				"spl",
+				"src\\splash.js"
+			],
+			[
+				"mainapp",
+				"android\\app\\src\\main\\java\\com\\numpangiklan\\MainApplication.java"
+			],
+			[
+				"pakage",
+				"package.json"
+			],
+			[
+				"mainap",
+				"android\\app\\src\\main\\java\\com\\numpangiklan\\MainApplication.java"
+			],
+			[
+				"main",
+				"android\\app\\src\\main\\java\\com\\numpangiklan\\MainActivity.java"
+			],
+			[
+				"buil",
+				"android\\app\\build.gradle"
+			],
+			[
+				"sett",
+				"android\\settings.gradle"
+			],
+			[
+				"maina",
+				"android\\app\\src\\main\\java\\com\\numpangiklan\\MainActivity.java"
+			],
+			[
+				"setting",
+				"android\\settings.gradle"
+			],
+			[
+				"gradle.",
+				"android\\gradle.properties"
+			],
+			[
+				"gradle",
+				"android\\app\\build.gradle"
+			],
+			[
+				"spla",
+				"src\\splash.js"
+			],
+			[
+				"mainac",
+				"android\\app\\src\\main\\java\\com\\numpangiklan\\MainApplication.java"
+			],
+			[
+				"build",
+				"android\\app\\build.gradle"
+			],
+			[
+				"settings.gra",
+				"android\\settings.gradle"
+			],
+			[
+				"deta",
+				"src\\component\\detail.js"
+			],
+			[
+				"api",
+				"src\\component\\api.js"
+			],
+			[
+				"kategori",
+				"src\\component\\kategori.js"
+			],
+			[
+				"fontawesomeic",
+				"src\\component\\FontAwesomeIcons.js"
+			],
+			[
+				"index",
+				"api\\index.php"
+			],
+			[
+				"con",
+				"api\\Config.php"
+			],
+			[
+				"eslint",
+				"node_modules\\babel-plugin-react-transform\\.eslintrc"
+			],
+			[
+				"detil",
+				"src\\component\\detail.js"
+			],
+			[
+				"footer",
+				"src\\component\\footer.js"
+			],
+			[
+				"detil.",
+				"src\\component\\detail.js"
+			],
+			[
+				"row.",
+				"src\\component\\row.js"
+			],
+			[
+				"",
+				"index.php"
+			],
+			[
+				"load",
+				"ajax\\load_name.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
